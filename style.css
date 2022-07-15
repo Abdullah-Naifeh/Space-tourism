@@ -7,7 +7,7 @@
 
 body  {
     
-    background-image: url("/assets/home/background-home-desktop.jpg");
+    background-image: url("/background-home-desktop.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%; 
@@ -171,7 +171,7 @@ body  {
 @media (max-width:768px) {
 
     html{
-        background-image: url(/assets/home/background-home-tablet.jpg);
+        background-image: url(/background-home-tablet.jpg);
     }
     .header{
         display: flex;
